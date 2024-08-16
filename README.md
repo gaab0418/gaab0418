@@ -2,12 +2,6 @@
 
 <!--![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{gaab0418}1212%2Fhit-counter)-->
 
-
-### 🎐 Sobre
-
-  Um entusiasta que se apaixonou por programação codando em .Lua no MTA:SA por diversão, atualmente querendo tornar isto em algo a mais que diversão, e sim sua profissão, atualmente estudando para o Back-end com Java
-
-
 ### 📚 Conhecimento
 
 * Curso de Frontend (HTML, CSS, React, Tailwindcss) <br>
