@@ -28,13 +28,13 @@
 
 ###
 
-
+<!--
 ### 📂 Projetos
 
 * [Dashboard Financeiro](https://github.com/gaab0418/Financeiro) - Descontinuado - __Privado__
   > Descrição: `N/A`
 
-<!--### ✨ Metas-->
+-### ✨ Metas-->
 
 <br>
 
