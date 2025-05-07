@@ -8,6 +8,8 @@
 
 Desenvolvedor com foco em back-end e conhecimento intermediário/avançado em front-end. Apaixonado por soluções robustas e escaláveis, trabalhando com diversas tecnologias e ambientes empresariais.
 
+Meu Github da Faculdade: <a href="https://github.com/CSouzaCatolica">@CSouzaCatolica</a></p>
+
 🌍 **Brasil**  
 🚀 **Desenvolvedor back-end**  
 📅 **No GitHub desde 2023**
@@ -68,6 +70,7 @@ Desenvolvedor com foco em back-end e conhecimento intermediário/avançado em fr
 
 ## 🎓 Educação
 
+- Faculdade Católica SC - Engenharia de Software
 - Curso Técnico em Desenvolvimento de Software
 - Conhecimentos avançados em Front-end (HTML, CSS, React.js, Tailwind CSS)
 
