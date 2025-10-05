@@ -1,17 +1,7 @@
 <div align="center">
-
-<!-- ANIMAÇÃO DE DIGITAÇÃO SUAVE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6E00FF&center=true&vCenter=true&width=900&lines=Hey!+👋+Eu+sou+o+Gabriel;Back-end+Developer+%7C+Integra%C3%A7%C3%B5es;APIs+REST+%7C+Oracle+%7C+Protheus+TOTVS;Apaixonado+por+c%C3%B3digo+limpo+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6E00FF,100:A966FF&text=Ol%C3%A1!+%F0%9F%91%8B&fontSize=50&fontColor=fff" />
   
-<!-- BADGES ANIMADOS -->
-[![](https://visitcount.itsvg.in/api?id=gaab0418&icon=5&color=6)](https://visitcount.itsvg.in)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=8B3FFF&center=true&vCenter=true&width=420&lines=%F0%9F%92%BB+Back-end+Developer;%F0%9F%94%A5+APIs+REST;%E2%9A%A1+ADVPL+%7C+Python+%7C+Oracle" alt="Typing SVG" />
 </div>
 
 ---
@@ -49,9 +39,15 @@ hobbies: ["💻 Código", "🎮 Games", "📚 Tech Articles"]
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### ⚙️ Back-end & Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 ### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -75,18 +71,6 @@ hobbies: ["💻 Código", "🎮 Games", "📚 Tech Articles"]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gaab0418&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaab0418/gaab0418/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaab0418/gaab0418/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaab0418/gaab0418/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
@@ -127,6 +111,7 @@ class BackendDeveloper:
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/477968592994828290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gabriel-chiarelli-sz)
 
 </div>
 
