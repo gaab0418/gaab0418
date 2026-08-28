@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Gabriel Chiarelli — Backend · Integrations · System Architecture · Brazil" width="840">
+  <img src="assets/header-light.svg" alt="Gabriel Chiarelli — Backend · Integrations · System Architecture · Brazil">
 </picture>
 
 </div>
@@ -35,20 +35,20 @@ class Gabs {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack: Python, TypeScript, JavaScript, Java, Lua, Node.js, Spring, Docker, Postman, Git, React, Tailwind, HTML5, CSS3, Oracle, PostgreSQL, MySQL, ADVPL, Protheus" width="840">
+  <img src="assets/stack-light.svg" alt="Stack: Python, TypeScript, JavaScript, Java, Lua, Node.js, Spring, Docker, Postman, Git, React, Tailwind, HTML5, CSS3, Oracle, PostgreSQL, MySQL, ADVPL, Protheus"/>
 </picture>
 
 </div>
 
 <div align="center">
 
-<img src="assets/terminal.gif" alt="whoami · cat now.txt" width="820">
+<img src="assets/terminal.gif" alt="whoami · cat now.txt">
 
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="" width="840">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quotes">
 </picture>
 
 <br><br>
